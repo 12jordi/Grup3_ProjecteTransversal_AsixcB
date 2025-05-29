@@ -318,7 +318,7 @@ Ha d'existir com a mínim un empleat de cada Grup-Nivell definit.
 | E2 | 16.576 | 3 |
 
 El període de prova per els tècnics titulats es de 6 mesos i per la resta es de 2 mesos. Mentre que els períodes de vacances son 23 dies laborals per a tothom.   
-![][image2](
+![][image2](https://github.com/12jordi/Grup3_ProjecteTransversal_AsixcB/blob/main/bbdd.png?raw=true)
 
 
 Projecte Transversal ASIXc1B
